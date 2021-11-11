@@ -1,4 +1,4 @@
-setwd("C:\\Supriya_docs\\OneDrive - GrayMars IoT Solutions Pvt Ltd\\Supriya\\Rprog_samples\\KAGGLE\\Titanic")
+
 # Read train data
 titanic_train <- read.csv("train.csv",stringsAsFactors = FALSE)
 # Read test data
