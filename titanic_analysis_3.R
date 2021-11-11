@@ -1,4 +1,4 @@
-setwd("C:\\Supriya_docs\\OneDrive - GrayMars IoT Solutions Pvt Ltd\\Supriya\\Rprog_samples\\KAGGLE\\Titanic")
+
 library(ggplot2)
 library(mice)
 library(dplyr)
